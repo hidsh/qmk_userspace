@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # My QMK Userspace
 
 |#|commit|comment|schematic|
 |---:|:---:|:---|:---:|
-|1|73c5c25|one-key base|![schematic](img/onekey-xiao-rp2040-schem.jpg)|
+|1|737f070|one-key base|![schematic](img/onekey-xiao-rp2040-schem.jpg)|
 
 ## tested qmk versions
 
