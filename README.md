@@ -8,19 +8,9 @@
 
 - 0.26.9
 
+-----
+
 # QMK Userspace
-=======
-# My QMK Userspace
-
-|#|commit|comment|schematic|
-|---:|---|:---|:---:|
-|1||one-key base|![schematic](img/onekey-xiao-rp2040-schem.jpg)|
-
-## tested qmk versions
-
-- 0.26.9
-
->>>>>>> 73c5c2599b8ce184de6e9369afd175d5f65ce347
 
 This is a template repository which allows for an external set of QMK keymaps to be defined and compiled. This is useful for users who want to maintain their own keymaps without having to fork the main QMK repository.
 
