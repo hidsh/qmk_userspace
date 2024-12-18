@@ -8,7 +8,6 @@
 
 - 0.26.9
 
-||||||| 35edec2
 # QMK Userspace
 =======
 # My QMK Userspace
