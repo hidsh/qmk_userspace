@@ -6,6 +6,11 @@
         "cols": ["GP26"],
         "rows": ["GP27"]
     },
+	"encoder": {
+		"rotary": [
+			{"pin_a": "GP28", "pin_b": "GP29"}
+		]
+    },
     "backlight": {
         "pin": "GP25"
     },

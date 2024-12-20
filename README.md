@@ -2,7 +2,9 @@
 
 |#|commit|comment|schematic|
 |---:|:---:|:---|:---:|
-|1|737f070|one-key base|![schematic](img/onekey-xiao-rp2040-schem.jpg)|
+|1|737f070|one-key base|![base](img/onekey-xiao-rp2040-schem.jpg)|
+|2|3234017|add encoder|![+ encoder](img/onekey-xiao-rp2040-schem-enc.jpg)|
+
 
 ## tested qmk versions
 
