@@ -4,6 +4,7 @@
 |---:|:---:|:---|:---:|
 |1|737f070|one-key base|![base](img/onekey-xiao-rp2040-schem.jpg)|
 |2|71c9afd|add encoder|![+ encoder](img/onekey-xiao-rp2040-schem-enc.jpg)|
+|3|     |add mcp23017|![+ mcp23017](img/1key-xiao-rp2040-schem-mcp23017.jpg)|
 
 
 ## tested qmk versions
